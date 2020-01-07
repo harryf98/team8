@@ -1,0 +1,54 @@
+.header{
+    width: 97%;
+    background: #F36324;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 8em;
+}
+
+.login-section{
+    margin: 0 auto;
+    width: 1200px;
+    padding: 20px 30px;
+}
+
+.login-form{
+    display: inline-block;
+    position: absolute;
+    padding: 200px;
+}
+
+input{
+    width: 300px;
+    padding: 10px;
+    background: #849398;
+    border: none;
+    color: white;
+    margin: 2px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+input::placeholder{
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+img{
+  width: 40%;
+}
+
+.login-btn{
+  display: inline-block;
+  position: absolute;
+  font-size: 25px;
+  font-weight: 600;
+  background: #F46324;
+  transform: none;
+  padding: 20px 120px;
+  text-decoration: none;
+  color: white;
+  margin: 300px 200px;
+}
