@@ -47,8 +47,9 @@ img{
   font-weight: 600;
   background: #F46324;
   transform: none;
-  padding: 20px 120px;
+  padding: 20px 130px;
   text-decoration: none;
   color: white;
-  margin: 300px 200px;
+  margin: 310px 200px;
+  border-radius: 5px;
 }
